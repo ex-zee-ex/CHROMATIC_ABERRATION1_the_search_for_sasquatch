@@ -2,7 +2,9 @@
 a helpful 4 band colorizer/solarizer specially optimized for filming bigfoot
 
 This is currently a bonus image for the Waaave Pool Distro, with some vague plans to develop it further into a larger scale unit.  Check over here 
+
 https://github.com/ex-zee-ex/waaaave_pool
+
 for more details on how/what/why a waaave pool is and how to set one up!
 
 
