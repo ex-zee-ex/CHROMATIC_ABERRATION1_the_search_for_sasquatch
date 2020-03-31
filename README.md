@@ -41,6 +41,10 @@ all controls for this are Unipolar!
 
 a,b,c - switches on and off different curves for assigning hue from brightness
 
+more controls forthcoming as i figure out more crazy stuff to do with this set up
+if you have any suggestions feel free to let me know over in the video_waaaves fb group!
+
+https://www.facebook.com/groups/440566853501750/
 
 
 ![](https://github.com/ex-zee-ex/pictures/blob/master/colorizer4.png)
