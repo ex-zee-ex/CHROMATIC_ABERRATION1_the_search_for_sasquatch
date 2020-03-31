@@ -12,7 +12,13 @@ for more details on how/what/why a waaave pool is and how to set one up!
 
 ![](https://github.com/ex-zee-ex/pictures/blob/master/colorizer1.png)
 
-chromatic aberration1: the search for sasquatch
+as always, building from the folders above is only recommended if you know what openFrameworks is and what a makefile is.  otherwise you can download this link 
+
+https://drive.google.com/open?id=1ubx2S5PZ4g8e8Qj7U5LgeZN-BN2bN5pe
+
+burn it to an sd card, pop it into yr waaave pool set up and go wild!
+
+**chromatic aberration1: the search for sasquatch**
 
 For many years humankind has yearned to seek the answers to the burning questions: are mysteries real? are legends merely the wisps of fantasies or do they, like the thread of ariadne, lead us out of the labrynth of "conventional science" and into the realm of veridinal phemonological discoveries?  What are we to make of these stories we have told ourselves over the millenia of memetic cultural evolution, these stories of the Wendingo, the Yeti, the Skinwalker.  What sense can we make of the archeological findings of non human hominids all over the world?  Who really built the pyramids?  How did the reptile people escape the cataclysms of Atlantis?  Why do frogs rain from the sky and why do voices cry out from deep holes in the earth?  Did a sasquatch drop a nuclear bomb on Tunguska in 1908?  Did a yeti write the Voynich Manuscript? Did the noble bigfoot assassinate John F. Kennedy as a part of some complex and ancient bigfoot "killing of the king" fertility ritual?  We may never know the answers to these questions.  We may never know the answers to any questions at all!  Perhaps what we need is to unask the questions and then perhaps we can receive some nonanswers!
 
