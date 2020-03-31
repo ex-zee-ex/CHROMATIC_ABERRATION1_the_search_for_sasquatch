@@ -13,7 +13,10 @@ For many years humankind has yearned to seek the answers to the burning question
 I have analyzed the data available and have come to 1 solid conclusion:  The lack of proof of non human homind existence is primarily due to the lack of high quality real time multiband colorizer/solarizer video processing units.  Imagine if you will, if Patterson and Gimlin had access to a 4 band colorizer and brightness attenuator while they were filming? What would science say to an enhanced footage wherein the brightness scale of the input video was split into 4 bands (0-.25, .25-.5, .5-.75, .75-1) where each band had separate hardware controls for assigning hue, saturation, and reassigning offsets to brightness?  But thats not all!  They could also have used the EIGHT (8) lfos (2 for each band 1 for hue and one for brightness) to oscillate hue and brightness in order to draw attention to salient points of interest in the footage!  I have a hunch I know what science would say.  Science:"thats pretty fucking dank yo".
 
 controls
+
 ![](https://github.com/ex-zee-ex/pictures/blob/master/20200206_122907.jpg)
+
+
 all controls for this are Unipolar!
 
 1-4 Saturation controls for bands 1-4 respectively
